@@ -1,5 +1,8 @@
 ### Welcome to neerb's GitHub account
 
+![neerbs's github stats](https://github-readme-stats.vercel.app/api?username=neerb)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neerb)](https://github.com/neerb/github-readme-stats)
 
 
