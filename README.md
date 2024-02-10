@@ -1,4 +1,7 @@
-### Hi there 👋
+### Welcome to neerb's GitHub account
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neerb)](https://github.com/neerb/github-readme-stats)
+
 
 [![Animated Album Covers](https://github-readme-stats.vercel.app/api/pin/?username=neerb&repo=animated-album-covers)](https://neerb.github.io/animated-album-covers/)
 
