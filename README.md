@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Animated Album Covers](https://github-readme-stats.vercel.app/api/pin/?username=neerb&repo=animated-album-covers)](https://github.io/animated-album-covers/)
+[![Animated Album Covers](https://github-readme-stats.vercel.app/api/pin/?username=neerb&repo=animated-album-covers)](https://neerb.github.io/animated-album-covers/)
 
 
 
