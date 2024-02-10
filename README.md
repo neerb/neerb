@@ -1,5 +1,21 @@
 ### Welcome to neerb's GitHub account
 
+
+👾 About Me
+🎹 An enthusiast of retro-futurism integrated into interactive UI/UX design and media.
+🖥️ Crafting digital experiences infused with the nostalgia of the '80s and '90s.
+🌠 Fascinated by the intersection of technology and user interactivity.
+
+🚀 A Few Projects
+[![The Ambulation Zone](https://github-readme-stats.vercel.app/api/pin/?username=neerb&repo=ambulationzone-npm)](https://ambulate.net)
+[![Animated Album Covers](https://github-readme-stats.vercel.app/api/pin/?username=neerb&repo=animated-album-covers)](https://neerb.github.io/animated-album-covers/)
+
+💾 Technologies
+
+
+
+🌐 Connect with Me
+
 ![neerbs's github stats](https://github-readme-stats.vercel.app/api?username=neerb)
 
 
