@@ -1,4 +1,4 @@
-### Welcome to neerb's GitHub account
+<p align="center">### --- Welcome to neerb's GitHub Account ---</p>
 
 <p align="center">:earth_americas: My Website: http://nbreen.dev</p>
 
