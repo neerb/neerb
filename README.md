@@ -1,6 +1,6 @@
 ### Welcome to neerb's GitHub account
 
-:earth_americas: My Website: http://nbreen.dev
+<p align="center">:earth_americas: My Website: http://nbreen.dev</p>
 
 ----------------------------------------------------------------------------------------------------------
 
@@ -15,7 +15,6 @@
 🚀 A Few Projects
 
 [![The Ambulation Zone](https://github-readme-stats.vercel.app/api/pin/?username=neerb&repo=ambulationzone-npm)](https://ambulate.net)
-
 [![Animated Album Covers](https://github-readme-stats.vercel.app/api/pin/?username=neerb&repo=animated-album-covers)](https://neerb.github.io/animated-album-covers/)
 
 
@@ -29,13 +28,6 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neerb)](https://github.com/neerb/github-readme-stats)
-
-
-[![The Ambulation Zone](https://github-readme-stats.vercel.app/api/pin/?username=neerb&repo=ambulationzone-npm)](https://ambulate.net)
-
-[![Animated Album Covers](https://github-readme-stats.vercel.app/api/pin/?username=neerb&repo=animated-album-covers)](https://neerb.github.io/animated-album-covers/)
-
-
 
 <!--
 **neerb/neerb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
