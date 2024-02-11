@@ -5,7 +5,7 @@
 ----------------------------------------------------------------------------------------------------------
 
 
-<h3 align="">👾 About Me</h3>
+<h2 align="">👾 About Me</h2>
 
 🎹 An enthusiast of retro-futurism integrated into interactive UI/UX design and media.
 
@@ -14,13 +14,13 @@
 🌠 Fascinated by the intersection of technology and user interactivity.
 
 
-🚀 A Few Projects
+<h2 align="">🚀 A Few Projects</h2>
 
 [![The Ambulation Zone](https://github-readme-stats.vercel.app/api/pin/?username=neerb&repo=ambulationzone-npm)](https://ambulate.net)
 [![Animated Album Covers](https://github-readme-stats.vercel.app/api/pin/?username=neerb&repo=animated-album-covers)](https://neerb.github.io/animated-album-covers/)
 
 
-💾 Technologies
+<h2 align="">💾 Technologies</h2>
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -40,10 +40,11 @@
 
 
 
-🌐 Connect with Me
+<h2 align="">🌐 Connect with Me</h2>
 
 **Email:** [natbreenx@gmail.com](mailto:natbreenx@gmail.com)
 
+----------------------------------------------------------------------------------------------------------
 
 ![neerbs's github stats](https://github-readme-stats.vercel.app/api?username=neerb)
 
