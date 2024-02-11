@@ -1,10 +1,11 @@
-<p align="center">### --- Welcome to neerb's GitHub Account ---</p>
+<h1 align="center">Welcome to neerb's GitHub Account</h1>
 
 <p align="center">:earth_americas: My Website: http://nbreen.dev</p>
 
 ----------------------------------------------------------------------------------------------------------
 
-👾 About Me
+
+<h3 align="">👾 About Me</h3>
 
 🎹 An enthusiast of retro-futurism integrated into interactive UI/UX design and media.
 
