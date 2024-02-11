@@ -17,6 +17,8 @@
 - Crafting digital experiences infused with the nostalgia of the '80s and '90s.
 
 - Fascinated by the intersection of technology and user experience.
+  
+- Ambulator
 
 
 <h2 align="">🚀 A Few Projects</h2>
