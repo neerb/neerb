@@ -25,6 +25,7 @@
 
 [![The Ambulation Zone](https://github-readme-stats.vercel.app/api/pin/?username=neerb&repo=ambulationzone-npm)](https://ambulate.net)
 [![Animated Album Covers](https://github-readme-stats.vercel.app/api/pin/?username=neerb&repo=animated-album-covers)](https://neerb.github.io/animated-album-covers/)
+[![pdn-one-dimensional-cellular-automata-plugin](https://github-readme-stats.vercel.app/api/pin/?username=neerb&repo=pdn-one-dimensional-cellular-automata-plugin)](https://github.com/neerb/pdn-one-dimensional-cellular-automata-plugin/)
 
 
 <h2 align="">💾 Technologies</h2>
