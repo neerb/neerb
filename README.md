@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to neerb's GitHub Account</h1>
+<h1 align="center">- Welcome to neerb's GitHub Account -</h1>
 
 <p align="center">:earth_americas: My Website: http://nbreen.dev</p>
 
@@ -12,11 +12,11 @@
 
 <h2 align="">👾 About Me</h2>
 
-🎹 An enthusiast of retro-futurism integrated into interactive UI/UX design and media.
+- An enthusiast of retro-futurism integrated into interactive UI/UX design and media.
 
-🖥️ Crafting digital experiences infused with the nostalgia of the '80s and '90s.
+- Crafting digital experiences infused with the nostalgia of the '80s and '90s.
 
-🌠 Fascinated by the intersection of technology and user interactivity.
+- Fascinated by the intersection of technology and user experience.
 
 
 <h2 align="">🚀 A Few Projects</h2>
@@ -51,8 +51,10 @@
 
 ----------------------------------------------------------------------------------------------------------
 
-![neerbs's github stats](https://github-readme-stats.vercel.app/api?username=neerb)
 
+<!--
+![neerbs's github stats](https://github-readme-stats.vercel.app/api?username=neerb)
+-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neerb)](https://github.com/neerb/github-readme-stats)
 
