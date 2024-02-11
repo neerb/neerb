@@ -1,6 +1,6 @@
 ### Welcome to neerb's GitHub account
 
-:earth_americas: [My Website(http://nbreen.dev)]
+:earth_americas: My Website: http://nbreen.dev
 
 ----------------------------------------------------------------------------------------------------------
 
