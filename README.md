@@ -12,13 +12,14 @@
 
 <h2 align="">👾 About Me</h2>
 
-- Here to learn and grow while having a good time
 
 - An enthusiast of retro-futurism integrated into interactive UI/UX design and media.
 
 - Crafting digital experiences infused with the nostalgia of the '80s and '90s.
 
 - Fascinated by the intersection of technology and user experience.
+
+- Here to learn and grow while having a good time
   
 - Ambulator
 
